@@ -1,4 +1,1 @@
-git add .
-git commit -m "Добавлены файлы проекта и тесты"
-git push
 pytest
